@@ -39,7 +39,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 Noms des étudiants : 
 * CRETOIS Charles
 * FAUQUET Elisabeth
-* SORTHEAPAH Rama Krishna
+* SORTHEAPAH Rama Krishna 
 
 Date du jour : 28/01/2021
 
